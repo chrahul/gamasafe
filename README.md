@@ -12,7 +12,7 @@ Build GamaSafe **your way** with:
 
 ---
 
-#  **FIRST: High-Level Plan **
+#  **FIRST: High-Level Plan**
 **Master Blueprint**.
 
 ---
