@@ -19,7 +19,7 @@ Build GamaSafe **your way** with:
 
 #  **GamaSafe 1.0 — High-Level Architecture**
 
-## **PHASE 1 — Core System Design **
+## **PHASE 1 — Core System Design**
 
 **1. Strategy Definition (Your Business#1 NIFTY system)**
 We lock the full flow:
