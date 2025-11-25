@@ -1,1 +1,27 @@
+# GamaSafe 1.0 – Strategy Configuration File
+
+entry:
+  entry_day: "Wednesday"
+  entry_time_start: "10:45"
+  entry_time_end: "11:15"
+
+strikes:
+  target_delta_low: 0.12
+  target_delta_high: 0.15
+  hedge_distance_min: 400
+  hedge_premium_max: 15
+
+adjustments:
+  profit_book_percent: 0.40     # 40% decay rule
+  max_premium_increase: 2.0     # premium doubling SL
+  rebalance_on_profit: true
+
+risk:
+  max_weekly_loss: 25000        # adjust per capital
+  lot_size: 2                   # starting lot size
+  reduce_size_after_sl: true
+
+expiry:
+  day: "Thursday"
+  exit_time: "15:20"
 
